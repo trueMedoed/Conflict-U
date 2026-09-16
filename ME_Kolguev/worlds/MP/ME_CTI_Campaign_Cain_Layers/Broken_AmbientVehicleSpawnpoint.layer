@@ -23,8 +23,8 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 3365.813 267.584 6860.028
-  angles 0 88.905 0
+  coords 3365.813 268 6860.028
+  angles -0.017 88.905 -0.895
  }
  CIV_Car_2 {
   components {
@@ -36,8 +36,8 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 3255.84 269.355 6840.555
-  angles 0 88.905 0
+  coords 3255.84 270 6840.555
+  angles -0.878 88.891 0.912
  }
  CIV_Truck_2 {
   components {
