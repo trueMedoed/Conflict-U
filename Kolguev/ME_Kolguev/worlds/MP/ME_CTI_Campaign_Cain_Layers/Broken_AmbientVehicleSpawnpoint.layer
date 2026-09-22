@@ -10,8 +10,8 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     m_bRequireAllIncludedLabels 1
    }
   }
-  coords 7556.83 2.187 4184.416
-  angles 0 -49.187 0
+  coords 7572.949 2.187 4195.613
+  angles 0 60 0
  }
  CIV_Car_1 {
   components {
@@ -23,8 +23,8 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 3365.813 268 6860.028
-  angles -0.017 88.905 -0.895
+  coords 3367.48 267.973 6861.712
+  angles -0.204 76.814 -0.872
  }
  CIV_Car_2 {
   components {
@@ -36,7 +36,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 3255.84 270 6840.555
+  coords 3252.579 270.07 6841.761
   angles -0.878 88.891 0.912
  }
  CIV_Truck_2 {
@@ -49,8 +49,8 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 9644.254 87.285 9704.428
-  angles 0 133.661 0
+  coords 9653.241 87.285 9712.938
+  angles 0 45.529 0
  }
  CIV_Car_3 {
   components {
@@ -62,7 +62,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 11797.962 7.219 10961.617
+  coords 11796.095 7.219 10960.867
   angles 0 -176.24 0
  }
  {
@@ -77,7 +77,7 @@ $grp GenericEntity : "{0DDAFCA92FF4451C}Prefabs/Systems/AmbientVehicles/AmbientV
     m_bRequireAllIncludedLabels 1
    }
   }
-  coords 6066.152 418.607 6236.999
+  coords 6062.846 418.607 6238.589
   angles 0 115.689 0
  }
 }
@@ -92,7 +92,7 @@ GenericEntity USSR_Truck_1 : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/
    }
   }
  }
- coords 10521.203 22.407 9725.952
+ coords 10523.246 22.407 9732.538
 }
 $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientVehicleSpawnpoint_FIA.et" {
  {
@@ -108,7 +108,7 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 6534.23 493.375 6641.068
+  coords 6535.15 493.375 6639.5
   angles 0 -125.123 0
  }
  {
@@ -123,7 +123,7 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 4703.606 162.288 7468.867
+  coords 4699.864 162.288 7466.398
   angles 0 35.135 0
  }
  FIA_Car_1 {
@@ -134,7 +134,8 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 2725.136 221.227 6985.77
+  coords 2716.222 221.227 6986.36
+  angles 0 92.615 0
  }
  FIA_Fuel_Truck_1 {
   components {
@@ -146,7 +147,7 @@ $grp GenericEntity : "{D4A604DD154470CD}Prefabs/Systems/AmbientVehicles/AmbientV
     }
    }
   }
-  coords 5699.775 2.187 8256.607
+  coords 5698.97 2.187 8257.507
   angles 0 -104.494 0
  }
 }
