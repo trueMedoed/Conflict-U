@@ -21,16 +21,18 @@ GenericEntity CP_Mine : "{2E4F096844CDC14B}Prefabs/Systems/MilitaryBase/Conflict
    m_sBaseNameUpper "#AR-Campaign_MapLocation_Cain_KrasnyyOktyabrMine-UC"
   }
  }
- coords 3673.705 179.84 5223.48
- angles 0 -22.276 0
+ coords 3677.421 179.823 5221.942
+ angles 0 -94.826 0
  {
   GenericEntity {
    ID "622086ACB9D1E3B2"
-   coords 3.745 -0.171 2.973
+   coords 9.721 -0.175 9.527
+   angles -0.741 -0.024 1.859
   }
   GenericEntity {
    ID "622086ACBB849B49"
-   coords 12.131 -0.628 24.466
+   coords -31.047 6.378 -47.72
+   angles -4.135 0.69 4.764
   }
  }
 }
