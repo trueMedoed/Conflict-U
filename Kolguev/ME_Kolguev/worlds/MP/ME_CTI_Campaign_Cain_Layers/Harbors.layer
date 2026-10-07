@@ -181,12 +181,17 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Pier_Michurino-UC"
    }
   }
-  coords 3743.4 2.278 3726.342
-  angles 0 43.751 0
+  coords 3754.66 2.981 3732.178
+  angles 3.394 52.951 -1.44
   {
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords 13.135 -0.812 57.373
+    angles -0.175 -0.004 1.251
+   }
    GenericEntity : "{22D2EFA80AC9DBD0}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_03.et" {
-    coords 12.537 1.558 22.999
-    angles 0 -81.972 0
+    coords -19.794 0.376 5.869
+    angles -1.207 99.322 -0.375
    }
   }
  }
