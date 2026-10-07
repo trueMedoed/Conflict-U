@@ -708,6 +708,11 @@ $grp GenericEntity : "{E7BA7FE6BA4DB3F1}Prefabs/Systems/MilitaryBase/ConflictSou
     coords 4.262 6.207 45.525
     angles 13.04 0.6 2.659
    }
+   GenericEntity {
+    ID "62388D8FFE98E06F"
+    coords -20.038 -0.096 12.798
+    angles 2.784 -0.079 -1.628
+   }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
     coords -10.625 0.031 3.049
     angles 0 35.018 0
