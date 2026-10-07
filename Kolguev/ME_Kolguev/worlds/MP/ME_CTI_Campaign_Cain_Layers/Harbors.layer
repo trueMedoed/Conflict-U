@@ -700,20 +700,21 @@ $grp GenericEntity : "{E7BA7FE6BA4DB3F1}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Dock_WestCape-UC"
    }
   }
-  coords 1641.877 110.688 7386.137
-  angles 0 6.515 0
+  coords 1638.321 110.688 7389.298
+  angles 0 93.435 0
   {
    GenericEntity {
     ID "62388D8F13AD0811"
-    coords 45.026 2 -23.137
+    coords 4.262 6.207 45.525
+    angles 13.04 0.6 2.659
    }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
-    coords 1.193 0.015 17.109
-    angles 0 177.769 0
+    coords -10.625 0.031 3.049
+    angles 0 35.018 0
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-    coords 12.794 0.063 17.637
-    angles 0 177.523 0
+    coords -11.061 0.187 23.315
+    angles 0 160.189 0
    }
   }
  }
