@@ -365,24 +365,29 @@ $grp GenericEntity : "{8BEE4B0606893CDF}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Harbour_Ugoldar-UC"
    }
   }
-  coords 6817.228 2.093 3491.48
-  angles 0 45.068 0
+  coords 6830.25 2.094 3516.19
+  angles 0 -45.365 0
   {
    GenericEntity {
     ID "62388D8FCFE45684"
-    coords -23.623 0.094 3.759
+    coords -72.876 0.377 42.749
+    angles 1.894 -0.021 -0.646
    }
    GenericEntity {
     ID "62388D8F13AD0811"
-    coords -45.844 0.331 -17.825
+    coords 19.223 0.729 95.524
+    angles 3.166 0.034 0.614
+   }
+   GenericEntity {
+    ID "62388D8F57B666BB"
+    coords -22.673 -0 -10.842
    }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
-    coords -10.728 -0.062 -29.103
-    angles 0 -88.881 0
+    coords -17.375 0.062 5.037
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-    coords -7.316 -0.062 -17.736
-    angles 0 -88.518 0
+    coords -5.241 0.271 43.082
+    angles -1.264 87.46 0.064
    }
   }
  }
