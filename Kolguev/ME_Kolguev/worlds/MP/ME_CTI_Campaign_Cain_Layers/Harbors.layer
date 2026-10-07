@@ -285,17 +285,20 @@ GenericEntity : "{1739B43A3702BB84}Prefabs/Systems/MilitaryBase/ConflictSourceBa
    m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_Airport-UC"
   }
  }
- coords 2645.922 24.218 5366.674
+ coords 2697.002 24.219 5504.21
+ angles 0 -140.867 0
  {
   GenericEntity {
    ID "62388D8F13AD0811"
-   coords 0 0.001 12.966
+   coords -99.247 -0.001 -4.773
   }
   GenericEntity : "{22D2EFA80AC9DBD0}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_03.et" {
-   coords -9.033 0.001 -12.571
+   coords -13.478 0.373 0.363
+   angles 0 -42.998 0
   }
   GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-   coords 0.111 0.001 -14.395
+   coords -41.214 0.373 5.066
+   angles 0 49.298 0
   }
  }
 }
