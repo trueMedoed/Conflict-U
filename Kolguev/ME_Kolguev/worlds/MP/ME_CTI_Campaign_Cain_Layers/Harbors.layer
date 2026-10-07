@@ -773,20 +773,21 @@ $grp GenericEntity : "{E7BA7FE6BA4DB3F1}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Harbour_Military-UC"
    }
   }
-  coords 8801.977 2.78 7394.523
-  angles 0 16.545 0
+  coords 8814.47 2.906 7434.537
+  angles 0 -122.017 0
   {
    GenericEntity {
     ID "62388D8FFE98E06F"
-    coords -18.366 0.444 -13.301
+    coords -41.136 -0.312 49.231
+    angles -1.799 -0.069 2.183
    }
    GenericEntity {
     ID "62388D8F13AD0811"
-    coords -39.392 6.564 12.123
+    coords 4.959 6.438 47.439
    }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
-    coords -1.021 -0.233 -26.617
-    angles 0 -87.18 0
+    coords -27.601 -0.323 32.361
+    angles 2.95 52.841 0
     {
      GenericEntity {
       ID "5D1ED92353BB9FB1"
@@ -856,8 +857,8 @@ $grp GenericEntity : "{E7BA7FE6BA4DB3F1}Prefabs/Systems/MilitaryBase/ConflictSou
     }
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-    coords 1.902 -0.022 -14.912
-    angles 0 -89.688 0
+    coords -51.541 -0.426 63.147
+    angles 0.172 95.558 -0.284
     {
      GenericEntity {
       ID "5E330D6CFA231272"
