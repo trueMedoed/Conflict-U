@@ -380,7 +380,7 @@ $grp GenericEntity : "{8BEE4B0606893CDF}Prefabs/Systems/MilitaryBase/ConflictSou
    }
    GenericEntity {
     ID "62388D8F57B666BB"
-    coords -22.673 -0 -10.842
+    coords -22.673 0 -10.842
    }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
     coords -17.375 0.062 5.037
@@ -398,20 +398,28 @@ $grp GenericEntity : "{8BEE4B0606893CDF}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Harbour_RockyBay-UC"
    }
   }
-  coords 12121.476 2.156 10519.931
-  angles 0 -10.465 0
+  coords 12126.142 2.125 10521.549
+  angles 0 -149.08 0
   {
    GenericEntity {
     ID "62388D8FCFE45684"
-    coords -18.043 0.009 -15.073
+    coords -25.521 0.031 0.079
+   }
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords -15.531 0.031 36.754
+   }
+   GenericEntity {
+    ID "62388D8F57B666BB"
+    coords 55.695 0.031 -22.861
    }
    GenericEntity : "{962EB289CF844AA2}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_06.et" {
-    coords -0.853 0 20.164
-    angles 0 -177.53 0
+    coords 13.837 -0.001 -18.954
+    angles 0 -38.446 0
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-    coords 6.874 -0.03 26.75
-    angles 0 90.894 0
+    coords -14.598 0.031 23.826
+    angles 0 10.499 0
    }
   }
  }
