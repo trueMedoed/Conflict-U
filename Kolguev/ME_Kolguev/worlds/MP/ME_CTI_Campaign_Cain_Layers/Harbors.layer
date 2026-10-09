@@ -202,12 +202,17 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Pier_Twin-UC"
    }
   }
-  coords 10053.58 7.97 10859.773
-  angles 0 -56.797 0
+  coords 10063.177 6.653 10849.056
+  angles 0.343 -127.208 -2.507
   {
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords 32.693 7.713 41.993
+    angles -1.226 -0.336 18.557
+   }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
-    coords 3.084 -1.158 -7.388
-    angles 0 3.799 0
+    coords -18.621 14.599 41.996
+    angles -7.088 153.288 -2.814
     {
      GenericEntity {
       ID "5D1ED92353BB9FF4"
