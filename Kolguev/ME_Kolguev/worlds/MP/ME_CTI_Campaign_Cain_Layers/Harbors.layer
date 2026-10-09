@@ -757,11 +757,17 @@ $grp GenericEntity : "{E7BA7FE6BA4DB3F1}Prefabs/Systems/MilitaryBase/ConflictSou
   {
    GenericEntity {
     ID "62388D8FFE98E06F"
-    coords -47.578 4.02 -16.709
+    coords 14.035 -0.168 -19.792
+    angles -2.924 -0.123 2.417
+   }
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords -32.57 -0.338 29.611
+    angles -0.977 -0.014 0.805
    }
    GenericEntity : "{22D2EFA80AC9DBD0}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_03.et" {
-    coords -12.517 -0.344 19.663
-    angles 0 178.408 0
+    coords -36.304 0.109 15.909
+    angles -1.547 69.77 -2.368
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
     components {
@@ -769,8 +775,8 @@ $grp GenericEntity : "{E7BA7FE6BA4DB3F1}Prefabs/Systems/MilitaryBase/ConflictSou
       m_bOrientChildrenToTerrain 0
      }
     }
-    coords -0.629 -0.321 21.024
-    angles 0 175.081 0
+    coords -14.808 -0.313 28.528
+    angles 0 -126.559 0
    }
   }
  }
