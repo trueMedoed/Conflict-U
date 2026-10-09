@@ -6,12 +6,17 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Pier_Komsomolsk-UC"
    }
   }
-  coords 8582.869 3.906 10185.977
-  angles 0 -7.508 0
+  coords 8649.94 3.781 10201.758
+  angles 0 115.794 0
   {
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords 27.22 1.618 15.07
+    angles 4.346 -0.232 -2.869
+   }
    GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
-    coords -11.938 0.087 8.101
-    angles 0 -89.697 0
+    coords -38.338 -0.979 18.771
+    angles -3.996 -134.893 -3.339
     {
      GenericEntity {
       ID "5E330D6C9FDD1551"
@@ -21,8 +26,8 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     }
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-    coords 25.236 -0.074 -3.774
-    angles 0 -177.167 0
+    coords 30.244 1.178 5.692
+    angles -4.288 -101.454 -2.422
    }
   }
  }
