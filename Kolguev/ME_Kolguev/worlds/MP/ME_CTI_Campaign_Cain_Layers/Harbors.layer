@@ -113,12 +113,17 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Cain_SosnovyMys-UC"
    }
   }
-  coords 4355.792 2.555 8144.114
-  angles 0 -40.118 0
+  coords 4404.89 2.555 8149.115
+  angles 0 -143.809 0
   {
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords -1.031 1.082 52.744
+    angles 1.634 0.106 2.309
+   }
    GenericEntity : "{22D2EFA80AC9DBD0}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_03.et" {
-    coords 19.218 -0.975 -7.259
-    angles 0 -175.036 0
+    coords 31.274 -1.46 18.146
+    angles 3.908 -74.874 -0.839
     {
      GenericEntity {
       ID "5E330D6C348F7D49"
