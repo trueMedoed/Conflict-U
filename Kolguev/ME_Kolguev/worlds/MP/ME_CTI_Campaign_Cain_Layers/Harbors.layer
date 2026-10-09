@@ -38,12 +38,17 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     m_sBaseNameUpper "#AR-Campaign_MapLocation_Cain_MusselCove-UC"
    }
   }
-  coords 6045.544 2.242 8443.501
-  angles 0 32.617 0
+  coords 6059.751 2.267 8449.096
+  angles -0.869 166.226 0.213
   {
+   GenericEntity {
+    ID "62388D8F13AD0811"
+    coords 42.402 7.573 30.56
+    angles 10.76 -6.267 3.6
+   }
    GenericEntity : "{962EB289CF844AA2}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_06.et" {
-    coords -24.153 -0.077 -12.649
-    angles 0 -113.617 0
+    coords 36.508 0.038 -3.826
+    angles 1.94 26.086 -0.493
     {
      GenericEntity {
       ID "5D1ED92199D182AF"
@@ -96,8 +101,8 @@ $grp GenericEntity : "{0226331FB6A8249A}Prefabs/Systems/MilitaryBase/ConflictSou
     }
    }
    GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
-    coords -12.993 -0.024 -7.598
-    angles 0 154.668 0
+    coords 2.749 -0.403 23.322
+    angles 3.191 57.95 1.851
    }
   }
  }
